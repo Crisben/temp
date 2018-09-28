@@ -1,0 +1,138 @@
+---
+title       : R Users Group – Ecuador
+subtitle    : Convertimos datos en información estratégica
+author      : R Users Group – Ecuador
+job         : Soluciones BI
+framework   : revealjs        # {revealjs, io2012, html5slides, shower, dzslides, ...}
+revealjs    :
+highlighter : highlight.js  # {highlight.js, prettify, highlight}
+hitheme     : zenburn      # 
+widgets     : []            # {mathjax, quiz, bootstrap}
+ext_widgets : {rCharts: [libraries/nvd3, libraries/leaflet]}
+mode        : selfcontained # {selfcontained    standalone, draft}
+knit        : slidify::knit2slides
+---
+
+<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+
+<!-- font-family: 'Permanent Marker', cursive; -->
+<!-- font-family: 'Open Sans', sans-serif; -->
+
+<style>
+.reveal h1 {
+    font-size: 2em;
+    // color: #0000b3;
+    padding-bottom: 10px;
+    font-family: 'Permanent Marker', Impact, sans-serif;
+}
+
+.reveal h2 {
+    font-size: 1.5em;
+    //color: #fff7e6;
+    padding-bottom: 10px;
+    font-family: 'Permanent Marker', Impact, sans-serif;
+}
+
+
+.reveal p, .reveal em {
+    padding-bottom: 10px;
+    width: 960px;
+    font-family: 'Open Sans', Verdana, sans-serif;
+}
+
+.reveal p {
+    font-size: .75em;
+}
+
+.reveal small {
+    width: 500px;
+}
+
+.reveal .slides {
+    text-align: left;
+}
+
+.reveal .roll {
+    vertical-align: text-bottom;
+}
+
+code {
+    color: red;
+}
+
+.reveal pre code { 
+     height: 250px;
+}
+
+</style>
+
+
+
+# R Users Group – Ecuador
+---------------------
+
+Soluciones de business intelligence diseñadas a la medida
+
+<center>
+_"Convertimos datos en información estratégica"_
+</center>  
+
+[![RUsers](http://rusersgroup.com/img/final5x5.png)](https://www.facebook.com/Rusersgroup)
+
+#### [rusersgroup.com](http://rusersgroup.com/)  
+
+<small> [Facebook](https://www.facebook.com/Rusersgroup/) / [Twitter](https://twitter.com/rusersgroup) / [LinkedIn](https://www.linkedin.com/company/24979492/) </small>  
+
+
+---  
+
+# R Users Group - Ecuador
+
+__R Users Group - Ecuador__ es una organización de la Sociedad Civil, que surge como producto de la necesidad de promover el uso del software estadístico R, apoyar la investigación estadística, así como la formación de científicos de datos en el país.
+
+Desde su constitución en 2012, R Users Group - Ecuador ha promovido la correcta utilización de las técnicas estadísticas y el desarrollo de productos estadísticos de calidad.
+
+--- 
+
+# ¿Qué es R?
+
+R es el lenguaje de programación más utilizado en investigación por la comunidad estadística, siendo además muy popular en el campo de la minería de datos, la investigación biomédica, la bioinformática, el modelamiento matemático, econométrico, el análisis de texto, imágenes, sonidos, video entre muchos otros.
+
+
+# Fortalezas
+
+Una de sus grandes fortalezas es que puede ser ampliado mediante paquetes que extienden sus funcionalidades. 
+
+Actualmente hay más de 11000 paquetes publicados con licencias libres y disponibles en el repositorio general [(CRAN)](https://cloud.r-project.org/), y alrededor de 4000 paquetes destinados al análisis de genomas [(Bioconductor)](https://bioconductor.org/packages/3.5/BiocViews.html#___Software), además de paquetes presentes en github con extensiones específicas a nuevas áreas como bioinformática, bioestadística, geoestadística, modelos gráficos, etc.
+
+
+--- 
+
+# Soluciones BI diseñadas a la medida
+
+Los cuadros de mando se han convertido en algo de moda en el mundo de informes y análisis, pero son presentados como productos a la venta.
+
+<center>
+_“Como profesionales de la analítica nos enfocamos en desarrollar estas soluciones y crear capacidades en los usuarios para su posterior modificación y actualización”._
+</center>
+
+
+--- 
+
+# Ventajas
+
+* Plataforma amigable, flexible y escalable, conectada a sus bases de datos Postgres, Mysql, Oracle, Json, etc., con un gran abanico de fuentes de datos adicionales.
+*	Automatización de análisis, modelamiento y reportería dinámica.
+*	Actualización automática en tiempo real.
+*	Acceso con autenticación de usuarios y roles.
+*	Compartido en la red interna y/o externa en todo momento.
+*	Interfaz renderizada para acceso desde cualquier dispositivo PC, smartphone y Tablet.
+*	Capacitación al equipo de trabajo para desarrollo de capacidades de control y mejora en las soluciones.
+
+
+--- 
+
+# R Users Group - Ecuador
+
+
+<center><iframe width="756" height="427" src="https://www.youtube.com/embed/wxKZn4Kt2WU?rel=0&showinfo=0&controls=0" frameborder="0" allowfullscreen></iframe></center>
