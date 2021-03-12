@@ -1,0 +1,12 @@
+E01,enero,1000
+E02,febrero,000
+E03,marzo,7800
+E04,abril,477
+E05,mayo,133
+E06,enero,10000
+E07,enero,250
+E08,febrero,68
+E09,marzo,30
+E10,abril,6000
+CRM01,mayo,1000
+E02,febrero,-1000
